@@ -1,6 +1,4 @@
-﻿
-
-using GamerVII.MCPing.Status;
+﻿using GamerVII.MCPing.Status;
 using System.Net;
 
 MCPing minecarftPing = new MCPing("178.33.34.224");
