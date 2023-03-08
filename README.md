@@ -15,7 +15,7 @@ using GamerVII.MCPing.Status.Models;
 ...
 
 MCPing minecarftPing = new MCPing("YOUR_IP_ADDRESS");
-var status = minecarftPing.GetStatus();
+MinecraftServer status = minecarftPing.GetStatus();
 ```
 
 ## License
