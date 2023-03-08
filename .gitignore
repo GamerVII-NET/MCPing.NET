@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/GamerVII.MCPing.NET
-/GamerVII.MCPing.NET/obj
-/GamerVII.MCPing.NET/bin/Debug/net7.0
+/.vs/
+/*/obj
+/*/bin/Debug/net7.0
